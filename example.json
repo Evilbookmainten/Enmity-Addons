@@ -1,18 +1,18 @@
 {
 	"name": "example",
-	"author": "L+RATIO#1000",
+	"author": "Evilbookmainten#1401",
 	"version": "4.2.0",
-	"description": "Your bunk ass theme... Now with BLUR!",
+	"description": "Sunset with Orange Colors! Only for Dark Theme!",
 	"authors": [ 
 		{
-			"name": "NEO",
-			"id": "424806150702366723"
+			"name": "Evilbookmaknten",
+			"id": "1025906394802683914"
 		}
 	],
 	"background": {
 		"blur": "1",
-		"url": "https://i.imgur.com/sEkjODE.jpeg",
-		"alpha": "0.69"
+		"url": "https://cdn.discordapp.com/attachments/1033539482869317704/1107378261064945837/Untitled87_20230514134541.png",
+		"alpha": "0.50"
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#FFFFFF"],
